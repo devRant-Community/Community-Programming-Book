@@ -1,6 +1,6 @@
 # Index
 
-* [Welcome](WELCOME.md)
+* [Welcome](welcome.md)
 
 ## Preface
 
