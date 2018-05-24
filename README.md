@@ -1,20 +1,10 @@
 # Community-Programming-Book
 
-<b>Format per language:</b>
+[![Build Status](https://travis-ci.org/devRant-Squad/Community-Programming-Book.svg?branch=master)](https://travis-ci.org/devRant-Squad/Community-Programming-Book)
 
-	Language 1
-		Introduction
- 		
-		History
- 			- Year of creation
- 			- Person(s) who created it. Organization?
- 			- Purpose of creation
- 		
-		What problems it solves? What it does well. 
- 			- Relate back to why it was created (purpose).
- 			- Basically a reason why you would use this language
- 			- Include example code to demonstrate
+The Devrant community gathered together to create a book on
+multiple programming languages. We want you to understand why
+this languages have come to exist and why they for example use
+either brackets or indenting.
 
-		Where you should use it. (Recommend use)
-
-		Shortcomings of the language. (Not recommended for)
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand. - Martin Fowler
