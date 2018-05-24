@@ -1,0 +1,8 @@
+{
+  "root": "./book",
+  "gitbook": ">= 3.2.3",
+  "language": "en",
+  "structure": {
+    "readme": "welcome.md"
+  }
+}
