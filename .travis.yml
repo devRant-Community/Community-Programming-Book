@@ -1,0 +1,6 @@
+before_install:
+- npm i -g Laboratoria/mdlint
+
+script: 
+- npm run lint
+
