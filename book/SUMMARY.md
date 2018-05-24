@@ -8,5 +8,5 @@
 
 ## Languages
 
-* [C++](/book/languages/cpp/README.md)
-  * [Introduction](/book/languages/cpp/intro.md)
+* [C++](languages/cpp/README.md)
+  * [Introduction](languages/cpp/intro.md)
