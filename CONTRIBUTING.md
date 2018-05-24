@@ -1,4 +1,8 @@
 # How to contribute
 
-You write you own language chapter using the layout on chapters/language.md
-The subtitles are one suggestion on how to structure the chapter, you only have to write all information that would also come together by the template structure.
+You write your own language chapter on Markdown using the layout
+on Chapters/language.md
+
+The subtitles are only a suggestion on how to structure the chapter,
+by the end you only have to write all information that would also come
+together by the template structure.
