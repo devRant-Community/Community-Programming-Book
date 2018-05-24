@@ -10,3 +10,14 @@ The first assembly language was developed by Kathleen Booth in 1947 for the ARC2
 
 ### Purpose:
 Back in the day it was extremely tedious,error prone and time consuming for programmers to "code" in binary. Even the smallest of the tasks required huge amount of thinking and calculations. Building huge programs then was a mammoth task. So the assembly languages have been created to get rid of the "tedious" part of coding in binary and to help concentrate more on the problem on hand rather than silly calculations and other laborious tasks.
+## What it solves?
+Consider an example program where we have to add two numbers stored in a register with address 5 and 6 and then store the resultant in the register with address 7 say. **The computer architecture here is 32 bit RISC-V hence both examples correspond to this architecture**
+>    add x7 x5 x6
+---
+> 00000000011100101000001101100011
+
+---
+This is same binary code with a mistake. Happy debugging :)
+> 00000000011100101000001101000011
+
+The purpose of an assembly language can easily be observed with the help of the above example. Assembly language with the help of its mnemonics makes it easier to code and not worry about trivial tasks such as opcodes, address calculations, etc. Also mistakes if any can easily identified in assembly rather than in binary. Imagine finding such mistakes in a pool of 0's and 1's!
