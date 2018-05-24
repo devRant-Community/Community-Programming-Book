@@ -1,0 +1,9 @@
+{
+  "name": "Community-Programming-Book",
+  "scripts": {
+    "lint": "mdlint ."
+  },
+  "devDependencies": {
+    "mdlint": "Laboratoria/mdlint"
+  }
+}
