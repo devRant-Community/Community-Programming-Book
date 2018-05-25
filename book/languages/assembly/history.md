@@ -6,4 +6,4 @@ After this several other variations of Assembly Language have been developed and
 ## Purpose
 
 Back in the day it was extremely tedious, error prone and time consuming for programmers to "code" in binary. Even the smallest of the tasks required huge amount of thinking and calculations. Building huge programs back then was a mammoth task. So the assembly languages have been created to get rid of.
-The very tedious part of coding in binary was reliefed by assembly and it helped concentrate more on the problems.
+The very tedious part of coding in binary was relieved by assembly and it helped concentrate more on the problems.
