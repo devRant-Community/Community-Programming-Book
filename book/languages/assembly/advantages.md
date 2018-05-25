@@ -11,7 +11,7 @@ The assembly language can be used in these types of application:
   For eg.: System software in an OS (not needed though as modern compilers do a pretty good job).
 
 * In embedded programming where space is limited to an extent that higher level languages
-  (like C) can use more space then required.
+  (like C) can use more space then required or actually present.
 
 * To access hardware features which are either platform specific or too uncommon and not
   available for optimization in higher languages such as C.
