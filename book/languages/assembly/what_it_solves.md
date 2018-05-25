@@ -1,4 +1,5 @@
-## Why Assembly?
+# Why Assembly?
+
 Consider an example instruction (program) where we have to add the two numbers 1 and 2 say.
 
 **Assembly:**

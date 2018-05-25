@@ -1,4 +1,4 @@
-## Where would you use assembly?
+# Where would you use assembly?
 In recent times programming in assembly is rare because automated programs exist(assemblers) which convert higher level languages into assembly and subsequently into machine language. Since there exists a strong correspondence between machine code and assembly mnemonics it can be used in applications where speed and performance is of importance but the application itself occupies minimal space.
 > Computers powering earlier Apollo missions were programmed in assembly but the entire code was if written in a book would be about 5 feet in height.
 

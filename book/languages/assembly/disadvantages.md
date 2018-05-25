@@ -1,4 +1,5 @@
-## Shortcomings
+# Shortcomings
+
 Consider the same example in a previous section to add two number say 1 and 2 but written in C, a high level language.
 
 >     #include<stdio.h>
@@ -22,7 +23,8 @@ There is a trade-off between the incredible performance offered by assembly lang
 
 * Comparable performance of manually written assembly programs and programs written in higher level languages which are then translated into machine code using compilers, interpreters or similar mechanisms.
 
-### Birth of higher level languages:
+## Birth of higher level languages
+
 Even though assembly language offers high performance it cannot be effectively used to build user applications and even higher abstractions are necessary to do so. Also it is not completely "programmer friendly" in the sense that it is still a low level language and can be difficult to grasp or understand easily. Hence a need for abstracting assembly language itself arises which is both understandable and has the performance of assembly.
 
 From this need were born higher level assembly languages which were a tad more "human friendly" than the initial low level assembly languages but they still remain assembly languages.
