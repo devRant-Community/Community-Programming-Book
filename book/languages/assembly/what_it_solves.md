@@ -21,4 +21,5 @@ Consider an example instruction (program) where we have to add the two numbers 1
 
 **The architecture used in the above examples is RISC-V (32 bit).**
 
-The purpose of an assembly language can easily be observed with the help of the above example. Assembly language with the help of its mnemonics makes it easier to code and not worry about trivial tasks such as opcodes, address calculations, etc. Mistakes if any can easily identified in assembly rather than in binary. Imagine finding such mistakes in a pool of 0's and 1's!
+The purpose of an assembly language can easily be observed with the help of the above example. Assembly language with the help of its mnemonics makes it easier to code and not worry about trivial tasks such as opcodes, address calculations, etc. Mistakes if any can easily identified in assembly
+rather than in binary. Imagine finding such mistakes in a pool of 0's and 1's!
