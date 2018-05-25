@@ -1,4 +1,4 @@
 # Here comes the chapter on Assembly Language
 
-We are going to understand about assembly language and how it is a leap towards higher level languages from machine code.
+The assembly language is the lowest language that exists after direct machine instructions. At the time it presented a starting leap towards higher-level languages.
 So let's get started :)
