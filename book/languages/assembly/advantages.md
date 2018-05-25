@@ -10,7 +10,7 @@ used in applications where speed and performance is of importance but the applic
 Some places where direct programming assembly language can be used:
 
 * To build software which requires  serious machine level optimizations or to beat compilers in code optimization. \
-For eg: some system software in an OS (not needed though as modern compilers do a pretty good job).
+  For eg: some system software in an OS (not needed though as modern compilers do a pretty good job).
 
 * In embedded programming where space is limited to an extent that higher level languages
   (like C) and an assembler/compiler cannot included in storage.

@@ -3,10 +3,9 @@
 Consider an example instruction (program) where we have to add the two numbers 1 and 2 say.
 
 **Assembly:**
->   \
-    addi x5 x0 1
-    addi x6 x0 2
-    add x7 x5 x6
+>addi x5 x0 1
+ addi x6 x0 2
+ add x7 x5 x6
 ---
 **Binary:**
 >00000000000100101000000000010011000000000010 001100000000000100110000000001110010100000110 1100011
