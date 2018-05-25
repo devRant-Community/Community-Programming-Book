@@ -9,15 +9,15 @@ used in applications where speed and performance is of importance but the applic
 
 Some places where direct programming assembly language can be used:
 
-* To build software which requires  serious machine level optimizations or to beat compilers in code optimization. \
-  For eg: some system software in an OS (not needed though as modern compilers do a pretty good job).
+* To build software which requires serious machine level optimizations or to beat compilers in code optimization. \
+  For eg: System software in an OS (not needed though as modern compilers do a pretty good job).
 
 * In embedded programming where space is limited to an extent that higher level languages
   (like C) and an assembler/compiler cannot included in storage.
 
-* To access hardware specific features  which are either platform specific or too uncommon and not
+* To access hardware features  which are either platform specific or too uncommon and not
   available for optimization in higher languages such as C.
 
-* Written for custom hardware that don't have a mechanism to convert high level code
-  into binary. The Appollo-11 Lunar mission is a good example as it was powered by programs
+* Written for custom hardware that doesn't have a mechanism to convert high level code
+  into binary. The Appollo-11 Lunar mission is an example as it was powered by programs
   written in assembly in  an era where high level languages did not exist.
