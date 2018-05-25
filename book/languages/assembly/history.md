@@ -1,7 +1,7 @@
 # Creation
 
 The first Assembly Language was developed by Kathleen Booth in 1947 for the ARC2 at  Birkbeck, University of London following work with John von Neumann and Herman Goldstine at the Institute for Advanced Study.
-After this several other variations of Assembly Language have been developed and higher abstractions of the language have been create.
+After this several other variations of Assembly Language have been developed and higher abstractions of the language have been created.
 
 ## Purpose
 
