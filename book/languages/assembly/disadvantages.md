@@ -23,9 +23,9 @@ But there is a trade-off between the performance offered by assembly language an
 
 ## Birth of the higher-level languages
 
-Even though assembly language offers high performance it cannot be effectively used to build user applications, because a higher abstractions is necessary to do so.
+Even though assembly language offers high performance it cannot be effectively used to build user applications, because a higher abstraction is necessary to do so.
 Also it is not "programmer friendly" in the sense that it still remains a low level language and can be difficult to grasp or understand.
-Hence a need for abstracting assembly language itself arises which is both understandable.
+Hence a need for abstracting assembly language itself arises which is both understandable and "programmer friendly".
 
 From this need new assembly languages were born with a higher abstraction, which were more "programmer friendly" than the initial low level assembly languages but they still remained assembly languages.
 
