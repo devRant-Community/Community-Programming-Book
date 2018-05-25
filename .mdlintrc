@@ -1,9 +1,40 @@
 {
   "default": true,
   "MD026": {
-      "punctuation": ".,;:!"
-    },
+    "punctuation": ".,;:!"
+  },
   "MD013": {
-      "line_length": 300
-    }     
+    "line_length": 300
+  },
+  "MD003": {
+    "style": "atx"
+  },
+  "MD012": {
+    "maximum": 2
+  },
+  "MD029": {
+    "style": "ordered"
+  },
+  "MD035": {
+    "style": "---"
+  },
+  "MD044": {
+    "names": [
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "CSS",
+      "CPP",
+      "MoonScript",
+      "ActionScript",
+      "AppleScript",
+      "CoffeeScript",
+      "ECMAScript",
+      "GDScript",
+      "PostScript",
+      ".NET",
+      "TypeScript"
+    ],
+    "code_blocks": false
+  } 
 }
