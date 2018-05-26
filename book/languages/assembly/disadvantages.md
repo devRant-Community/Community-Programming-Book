@@ -1,6 +1,6 @@
 # Shortcomings
 
-Consider the same example in a previous section to add two number say 1 and 2 but written in C, a high level language.
+Consider the same example as in the previous section to add two numbers, lets say 1 and 2, but this time it is written in C.
 
 >     #include<stdio.h>
       int main()
@@ -11,24 +11,22 @@ Consider the same example in a previous section to add two number say 1 and 2 bu
           return 0;
       }
 
-As the reader might have observed coding in C turns out to be much more easy than assembly because each line of code is more intuitive compared to either assembly or binary.
+As the reader might have observed coding in C turns out to be much more easy than assembly, because it's less verbose and each line of code is more intuitive compared to either assembly or binary.
 
-There is a trade-off between the incredible performance offered by assembly language and it being "programmer friendly"
+But there is a trade-off between the performance offered by assembly language and C.
 
-* Coding in assembly sometimes is not intuitive and requires minute understanding compared to higher level languages such as C where programmers literally write what they want to do.(refer the example)
+* Coding in assembly sometimes is not intuitive and requires a lot of time to understand the code compared to higher level languages such as C, which is less verbose and is more descriptive.
 
-* The entire code in assembly language could turn out to be monstrous in at some stage cannot be handled or maintained easily.
+* The entire code in assembly language could turn out to be monstrous in some stage cannot, because of which it cant't be handled or maintained easily.
 
-* Manually writing in assembly language for large programs such as an OS for instance can be frustrating (refer above point)
+* Manually writing in assembly language for large programs such as an OS for instance can be frustrating.
 
-* Comparable performance of manually written assembly programs and programs written in higher level languages which are then translated into machine code using compilers, interpreters or similar mechanisms.
+## Birth of the higher-level languages
 
-## Birth of higher level languages
+Even though assembly language offers high performance it cannot be effectively used to build user applications, because a higher abstraction is necessary to do so.
+Also it is not "programmer friendly" in the sense that it still remains a low level language and can be difficult to grasp or understand.
+Hence a need for abstracting assembly language itself arises which is both understandable and "programmer friendly".
 
-Even though assembly language offers high performance it cannot be effectively used to build user applications and even higher abstractions are necessary to do so.
-Also it is not completely "programmer friendly" in the sense that it still remains a low level language and can be difficult to grasp or understand easily.
-Hence a need for abstracting assembly language itself arises which is both understandable and has the performance of assembly.
-
-From this need were born higher level assembly languages which were more "human friendly" than the initial low level assembly languages but they still remain assembly languages.
+From this need new assembly languages were born with a higher abstraction, which were more "programmer friendly" than the initial low level assembly languages but they still remained assembly languages.
 
 Afterwards even higher level languages were introduced which acted like an abstraction of assembly language itself. One of the most notable languages among these is C.

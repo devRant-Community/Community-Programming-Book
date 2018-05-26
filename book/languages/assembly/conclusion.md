@@ -1,8 +1,8 @@
 # A final word
 
-Assembly language is a big leap from machine code towards higher level languages but like any other programming language assembly also has its own set of merits and demerits.
+Assembly language is a big leap from machine code towards higher level languages, but like any other programming language assembly also has its own set of advantages and disadvantages.
 
-The reader might wonder why only C was used as a comparison. The reason is C is one of the few high level languages that offers similar speed and performance as assembly or other low level languages and is also highly portable.
+You might be wondering why only C was used as a comparison. The reason is that C is one of the few high level languages that offers similar speed and performance as assembly or other low level languages and is also highly portable.
 
 ## Sources and reference
 
