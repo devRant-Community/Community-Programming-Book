@@ -35,3 +35,7 @@ We have to thank these great people on helping to write this book. Everyone here
 
   - [Devrant](https://devrant.com/users/silverstr)
   - [Github](https://github.com/gadilashashank)
+
+- Konrad RootPixl Klawikowski
+  - [Devrant](https://devrant.com/users/RootPixl)
+  - [Github](https://github.com/RootPixl)
