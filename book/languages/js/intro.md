@@ -2,8 +2,11 @@
 
 ## Inception
 
-**JavaScript (JS)**, but the official name is **ECMAScript**. <br> This language is really fast scripting language using specially for web pages, for **frontend** (Vue.js, React.js etc.) and for **backend** (node.js etc.). It can be used also for creating desktop and mobile native apps (Proton, Electron).
-**Brednan Eich** created that language, and it firstly appeared in **December 4, 1995**. JS became an **ECMA standard in 1997**. <br> File extension is **.js**
+**JavaScript (JS)**, but the official name is **ECMAScript**. 
+
+This language is really fast scripting language using specially for web pages, for **frontend** (Vue.js, React.js etc.) and for **backend** (node.js etc.). It can be used also for creating desktop and mobile native apps (Proton, Electron).
+**Brednan Eich** created that language, and it firstly appeared in **December 4, 1995**. JS became an **ECMA standard in 1997**.  
+File extension is **.js**
 
 ## Trademark
 
