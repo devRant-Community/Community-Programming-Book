@@ -31,7 +31,7 @@ We have to thank these great people on helping to write this book. Everyone here
   - [Devrant](https://devrant.com/users/Electrux)
   - [Github](https://github.com/Electrux)
 
-- gadilashashank
+- Gadila Shashank Reddy
 
-  - [Devrant](https://devrant.com/users/silverstr)
+  - [Devrant](https://devrant.com/users/silverstar)
   - [Github](https://github.com/gadilashashank)
