@@ -10,7 +10,15 @@ File extension is **.js**
 
 ## History
 
-**Netscape**. That company had the most popular web browser on the world in the begginigs of '90s. But in the late 1995 **Microsoft** came with their **Internet Explorer** project that (in plans) would be the domination over Netscape browser. Netscape tried to don't let Microsoft take control over JavaScript so they partnered with **Sun company**. Sun started development of **Java** programming language in 1990 trying to make something for `smart` devices. Before partnership with Netscape, **Sun had their own browser**, but it was slow and always resources hungry. That partnership means that Sun get the web browser and a delivery system for their strategic technology. On the other hand, **Netscape have a partner against Microsoft**. **Brendan Eich** with Sun decided to surf the tidal wave of hype surrounding **Java and position JavaScript as the companion language to Java**, in the same way Visual Basic was to C++. The aim of **Netscape Mocha** (later **JavaScript** and later officialy **ECMAScript**) was making Web a platform for apps to use with **LiveWire** software. **JavaScript** have a fascinating and rich history but it's still one of the most hated programming languages on the planet.
+**Netscape**. That company had the most popular web browser on the world in the begginigs of '90s.
+ But in the late 1995 **Microsoft** came with their **Internet Explorer** project that (in plans) would be the domination over Netscape browser.
+ Netscape tried to don't let Microsoft take control over JavaScript so they partnered with **Sun company**.
+ Sun started development of **Java** programming language in 1990 trying to make something for *smart* devices. Before partnership with Netscape, **Sun had their own browser**, but it was slow and always resources hungry.
+ That partnership means that Sun get the web browser and a delivery system for their strategic technology.
+ On the other hand, **Netscape have a partner against Microsoft**.
+ **Brendan Eich** with Sun decided to surf the tidal wave of hype surrounding **Java and position JavaScript as the companion language to Java**, in the same way Visual Basic was to C++.
+ The aim of **Netscape Mocha** (later **JavaScript** and later officialy **ECMAScript**) was making Web a platform for apps to use with **LiveWire** software.
+ **JavaScript** have a fascinating and rich history but it's still one of the most hated programming languages on the planet.
 
 ## Trademark
 
