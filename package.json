@@ -1,5 +1,5 @@
 {
-  "name": "Community-Programming-Book",
+  "name": "community-programming-book",
   "scripts": {
     "lint": "mdlint ."
   },
