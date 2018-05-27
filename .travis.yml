@@ -5,9 +5,4 @@ script:
 - npm run lint
 
 notifications:
-  webhooks: 
-    urls:
-      - http://skayo.lima-city.at/cpb/reportChecksFailure.php
-    on_success: never
-    on_failure: always
-    on_start: never
+  webhooks: http://skayo.lima-city.at/cpb/reportChecksFailure.php
