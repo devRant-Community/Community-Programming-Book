@@ -5,4 +5,4 @@ script:
 - npm run lint
 
 notifications:
-  webhooks: http://skayo.lima-city.at/cpb/reportChecksFailure.php
+  webhooks: https://skayo.lima-city.at/cpb/reportChecksFailure.php
