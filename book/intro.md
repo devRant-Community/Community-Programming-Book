@@ -1,4 +1,4 @@
-# Community-Programming-Book #
+# Community-Programming-Book
 
 The Devrant community gathered together to create a book on
 multiple programming languages. We want you to understand why
