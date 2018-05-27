@@ -25,7 +25,7 @@ The Readme.md is just to get into the next language, something like this:
 
 ``` md
 # Welcome
-
+> This chapter has been authored by (Your name goes here)
 Well, next we will talk a bit about Kotlin, the new JVM language by Jetbrains.
 Kotlin is less verbose than the original JVM language Java and is now one of
 the main development languages of the Android Platfom. Let's get into it.
