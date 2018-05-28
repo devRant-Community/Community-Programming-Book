@@ -34,7 +34,7 @@ Namespaces are one honking great idea -- let's do more of those! "
 
 Two examples both in python to scrape information about a particular page in wikipedia
 
-*Both examples are in python 3*
+Both examples are in python 3
 
 ```python
  import requests
