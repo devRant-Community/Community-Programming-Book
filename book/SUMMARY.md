@@ -20,6 +20,24 @@
 
   * [Conclusion](languages/assembly/conclusion.md)
 
+
+* [Python](languages/python/README.md)
+
+  * [Introduction](languages/python/intro.md)
+
+  * [History](languages/python/history.md)
+
+  * [What it solves?](languages/python/what_it_solves.md)
+
+  * [Advantages](languages/python/advantages.md)
+
+  * [Disadvantages](languages/python/disadvantages.md)
+
+  * [Few more points](languages/python/misc.md)
+
+  * [Conclusion](languages/python/conclusion.md)
+
+
 * [C++](languages/cpp/README.md)
   * [Introduction](languages/cpp/intro.md)
 
