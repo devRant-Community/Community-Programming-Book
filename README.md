@@ -16,3 +16,9 @@ were done with them. Basically we are telling their story.
 
 > Any fool can write code that a computer can understand. Good programmers write code that humans can understand. \
 > -- Martin Fowler
+
+
+## Book Title Poll
+**Vote here!**
+
+/polls "A story of Code" "A Ginormous Guide for the Myriad ( of ) Languages" "Programming Languages - a devRant guide" "Developer's Encyclopedia." "From C to R - The (Almost) Complete Programmers Guide." "A footnote on the history of Programming (language)" "The Painfully Thorough Guide to Everything." "The Programmer's Guide to the Galaxy (Already exists)" "From A+ to Z shell - The (Almost) Complete Programmer's Guide." "Programmer's wet dream" "Programming Languages - How they differ" 
