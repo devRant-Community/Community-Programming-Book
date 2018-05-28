@@ -4,34 +4,35 @@ We have to thank these great people on helping to write this book. Everyone here
 
 - ODXT
 
-  - [Devrant](https://devrant.com/users/ODXT)
-  - [Github](https://github.com/ODXT)
+  - [devRant](https://devrant.com/users/ODXT)
+  - [GitHub](https://github.com/ODXT)
 
 - Michelle
 
-  - [Devrant](https://devrant.com/users/Michelle)
+  - [devRant](https://devrant.com/users/Michelle)
 
 - Alice Peters
 
-  - [Devrant](https://devrant.com/users/Alice)
-  - [Github](https://github.com/Parou)
+  - [devRant](https://devrant.com/users/Alice)
+  - [GitHub](https://github.com/Parou)
 
 - Skayo
 
-  - [Devrant](https://devrant.com/users/Skayo)
-  - [Github](https://github.com/Skayo)
+  - [devRant](https://devrant.com/users/Skayo)
+  - [GitHub](https://github.com/Skayo)
+  - [Twitter](https://twitter.com/Skayo_)
 
 - Filipe Manuel De Sousa Ramalho
 
-  - [Devrant](https://devrant.com/users/FilipeRamalho)
-  - [Github](https://github.com/FilipeRamalho)
+  - [devRant](https://devrant.com/users/FilipeRamalho)
+  - [GitHub](https://github.com/FilipeRamalho)
 
 - Chirag Khandelwal
 
-  - [Devrant](https://devrant.com/users/Electrux)
-  - [Github](https://github.com/Electrux)
+  - [devRant](https://devrant.com/users/Electrux)
+  - [GitHub](https://github.com/Electrux)
 
 - Gadila Shashank Reddy
 
-  - [Devrant](https://devrant.com/users/silverstar)
-  - [Github](https://github.com/gadilashashank)
+  - [devRant](https://devrant.com/users/silverstar)
+  - [GitHub](https://github.com/gadilashashank)
