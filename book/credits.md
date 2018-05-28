@@ -16,7 +16,7 @@ We have to thank these great people on helping to write this book. Everyone here
   - [devRant](https://devrant.com/users/Alice)
   - [GitHub](https://github.com/Parou)
 
-- ![Skayo's-Avatar](https://github.com/Skayo.png?size=20) Skayo
+- Skayo
 
   - [devRant](https://devrant.com/users/Skayo)
   - [GitHub](https://github.com/Skayo)
