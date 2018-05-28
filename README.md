@@ -21,4 +21,14 @@ were done with them. Basically we are telling their story.
 ## Book Title Poll
 **Vote here!**
 
-/polls "A story of Code" "A Ginormous Guide for the Myriad ( of ) Languages" "Programming Languages - a devRant guide" "Developer's Encyclopedia." "From C to R - The (Almost) Complete Programmers Guide." "A footnote on the history of Programming (language)" "The Painfully Thorough Guide to Everything." "The Programmer's Guide to the Galaxy (Already exists)" "From A+ to Z shell - The (Almost) Complete Programmer's Guide." "Programmer's wet dream" "Programming Languages - How they differ" 
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/A%20Ginormous%20Guide%20for%20the%20Myriad%20(%20of%20)%20Languages)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/A%20Ginormous%20Guide%20for%20the%20Myriad%20(%20of%20)%20Languages/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/Developer's%20Encyclopedia)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/Developer's%20Encyclopedia/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/A%20story%20of%20Code)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/A%20story%20of%20Code/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/Programming%20Languages%20-%20a%20devRant%20guide)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/Programming%20Languages%20-%20a%20devRant%20guide/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/From%20C%20to%20R%20-%20The%20(Almost)%20Complete%20Programmers%20Guide)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/From%20C%20to%20R%20-%20The%20(Almost)%20Complete%20Programmers%20Guide/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/A%20footnote%20on%20the%20history%20of%20Programming%20(language))](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/A%20footnote%20on%20the%20history%20of%20Programming%20(language)/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/The%20Painfully%20Thorough%20Guide%20to%20Everything)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/The%20Painfully%20Thorough%20Guide%20to%20Everything/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/The%20Programmer's%20Guide%20to%20the%20Galaxy%20(Already%20exists))](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/The%20Programmer's%20Guide%20to%20the%20Galaxy%20(Already%20exists)/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/From%20A%2B%20to%20Z%20shell%20-%20The%20(Almost)%20Complete%20Programmer's%20Guide)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/From%20A%2B%20to%20Z%20shell%20-%20The%20(Almost)%20Complete%20Programmer's%20Guide/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/Programmer's%20wet%20dream)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/Programmer's%20wet%20dream/vote)
+[![](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/Programming%20Languages%20-%20How%20they%20differ)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/Programming%20Languages%20-%20How%20they%20differ/vote)
