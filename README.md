@@ -19,6 +19,7 @@ were done with them. Basically we are telling their story.
 
 
 ## Book Title Poll
+
 **Vote here!**
 
 [![A Ginormous Guide for the Myriad ( of ) Languages](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/A%20Ginormous%20Guide%20for%20the%20Myriad%20(%20of%20)%20Languages)](https://api.gh-polls.com/poll/01CEJZZGSHHVH7630BFH156JYV/A%20Ginormous%20Guide%20for%20the%20Myriad%20(%20of%20)%20Languages/vote)
