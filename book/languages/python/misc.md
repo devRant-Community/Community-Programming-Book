@@ -5,7 +5,7 @@
 The Zen of python is a short poem that is embedded in the interpreter summarizing the design philosophy.
 Type "import this" and press enter in a python interpretor
 
-```
+```md
 The Zen of Python, by Tim Peters
 
 Beautiful is better than ugly.
@@ -34,7 +34,7 @@ Namespaces are one honking great idea -- let's do more of those! "
 
 Two examples both in python to scrape information about a particular page in wikipedia
 
-**Both examples are in python 3**
+*Both examples are in python 3*
 
 ```python
  import requests
