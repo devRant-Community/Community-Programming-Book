@@ -25,8 +25,10 @@ The Readme.md is just to get into the next language, something like this:
 
 ``` md
 # Welcome
-
-Well, next we will talk a bit about Kotlin, the new JVM language by Jetbrains. Kotlin is less verbose then the original JVM language Java and is now one of the main development languages of the Android Platfom. Let's get into it.
+> This chapter has been authored by (Your name goes here)
+Well, next we will talk a bit about Kotlin, the new JVM language by Jetbrains.
+Kotlin is less verbose than the original JVM language Java and is now one of
+the main development languages of the Android Platfom. Let's get into it.
 ```
 
 The intro should be a bit longer, it should give you an brief look at the language. Talk about the story of language or tell from where it came. Look into the file intro.md at the repo root for inspiration.
