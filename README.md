@@ -7,7 +7,7 @@
 [![Github issues](https://img.shields.io/github/issues/devRant-Squad/Community-Programming-Book.svg?longCache=true&style=flat-square&logo=github)](https://github.com/devRant-Squad/Community-Programming-Book/issues)
 [![Closure](https://img.shields.io/issuestats/i/long/github/devRant-Squad/Community-Programming-Book.svg?longCache=true&style=flat-square&logo=github)](https://github.com/devRant-Squad/Community-Programming-Book/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square&logo=github)](https://github.com/devRant-Squad/Community-Programming-Book/blob/master/CONTRIBUTING.md)
-[![Discord](https://img.shields.io/discord/446073753064177675.svg?label=Discord&colorB=7289da)](https://discord.gg/4AThF88)
+[![Discord](https://img.shields.io/discord/446073753064177675.svg?label=Discord&colorB=7289da?style=flat-square)](https://discord.gg/4AThF88)
 
 The Devrant community has gathered together to create a book on
 multiple programming languages. We want you to understand why
