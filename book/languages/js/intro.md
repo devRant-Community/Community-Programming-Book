@@ -8,22 +8,6 @@ This language is really fast scripting language using especially for web pages, 
 **Brendan Eich** created that language, and it firstly appeared in **December 4, 1995,**. JS became a**ECMA standard in 1997**.
 File extension is **.js**
 
-## History
-
-**Netscape**. That company had the most popular web browser in the world in the beginnings of '90s.
- But in late 1995 **Microsoft** came with their **Internet Explorer** project that (in plans) would be the domination over Netscape browser.
- Netscape tried to don't let Microsoft take control over JavaScript so they partnered with **Sun company**.
- Sun started development of **Java** programming language in 1990 trying to make something for *smart* devices. Before partnership with Netscape, **Sun had their own browser**, but it was slow and always resources hungry.
- That partnership means that Sun gets the web browser and a delivery system for their strategic technology.
- On the other hand, **Netscape have a partner against Microsoft**.
- **Brendan Eich** with Sun decided to surf the tidal wave of hype surrounding **Java and position JavaScript as the companion language to Java**, in the same way, Visual Basic was to C++.
- The aim of **Netscape Mocha** (later **JavaScript** and later officially **ECMAScript**) was making Web a platform for apps to use with **LiveWire** software.
- **JavaScript** has a fascinating and rich history but it's still one of the most hated programming languages on the planet.
-
-## Trademark
-
-Actually **Oracle** have a trademark to JavaScript. Yes, these guys from Silicon Valley that are making virtual machines software.
-
 ## Versions
 
 | **Year**      | **Name**       | **Description** |
