@@ -6,7 +6,8 @@ While abstracting away the details, C# doesn't limit your abilities and gives yo
 
 C# is a managed programming language. Being one, allows you to not worry about freeing up the memory. The memory cleanup is dealt by the GC (Garbage collector) of the .NET Framework.
 
-Another advantage of managed code is that it becomes platform-independent, meaning that it can be run on any platform with .Net Framework installed, but it's not limited to it. Thanks to Mono project, there are other technologies that support C# as it's primary language. Tools like Unity and Xamarin allow you to write C# code and run it on any platform of your choice.
+Another advantage of managed code is that it becomes platform-independent, meaning that it can be run on any platform with .Net Framework installed, but it's not limited to it.
+Thanks to Mono project, there are other technologies that support C# as it's primary language. Tools like Unity and Xamarin allow you to write C# code and run it on any platform of your choice.
 
 It's a type-safe compiled language, meaning that your code is verified by the compiler before it's execution, making your code more resilient to runtime errors by catching them ahead of time.
 
