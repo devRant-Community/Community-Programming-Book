@@ -2,7 +2,7 @@
 
 C# was Developed by Anders Hejlsberg at Microsoft as part of .NET framework initiative in the late 2000's.
 
-The name comes from musical notation where a sharp symbol(#) sets the note higher in pitch by one semitone. The story of naming this language is similar to that of C++, where the ++ being the increment operator, was meant to say that C++ is an improvement over C. 
+The name comes from musical notation where a sharp symbol(#) sets the note higher in pitch by one semitone. The story of naming this language is similar to that of C++, where the ++ being the increment operator, was meant to say that C++ is an improvement over C.
 
 Some say that the sharp symbol also resembles four ”+” symbols (in a 2x2 grid), implying that the language is an increment of C++.
 
