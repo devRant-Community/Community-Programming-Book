@@ -9,6 +9,6 @@ C# is a managed programming language which means the programmer need not worry a
 Another advantage of managed code is that it becomes platform-independent, meaning that it can be run on any platform with .Net Framework installed, but it's not limited to it.
 Thanks to Mono project, there are other technologies that support C# as its primary language. Tools like Unity and Xamarin allow you to write C# code and run it on any platform of your choice.
 
-It's a type-safe compiled language, meaning that your code is verified by the compiler before it111s execution, making your code more resilient to runtime errors by catching them ahead of time.
+It's a type-safe compiled language, meaning that your code is verified by the compiler before its execution, making your code more resilient to runtime errors by catching them ahead of time.
 
 C# belongs to the C-family of programming languages and anyone comfortable in using other languages belonging to the same family like C, C++ or Java will feel comfortable in using it.
