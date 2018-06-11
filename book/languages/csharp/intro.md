@@ -6,4 +6,4 @@ It can be used to create Windows apps, Web services, Mobile apps, VR, Games and 
 
 C# is a managed code, meaning that C# program requires and only executes under the management of a CLR (Common Language Runtime) virtual machine.
 
-Same as Java running on JVM (Java Virtual Machine), C# runs on .NET Framework.
+C# runs on the .NET framework just like the way Java runs on a JVM (Java Virtual Machine)
