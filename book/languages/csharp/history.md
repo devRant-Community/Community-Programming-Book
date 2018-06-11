@@ -2,10 +2,11 @@
 
 C# was Developed by Anders Hejlsberg at Microsoft as part of .NET framework initiative in the late 2000's.
 
-The name comes from a musical notation where a sharp symbol sets the note higher in pitch by one semitone, which is similar to the story of the C++ name, where ++ being the increment operator.
-some say that the sharp symbol also resembles a four ”+” symbols (in a 2x2 grid), implying that the language is an increment of C++.
+The name comes from musical notation where a sharp symbol(#) sets the note higher in pitch by one semitone. The story of naming this language is similar to that of C++, where the ++ being the increment operator, was meant to say that C++ is an improvement over C. 
 
-In its early 1.0 version, C# looked a lot like it's predecessor Java (released in 1991).
-But it has grown quickly since it was first created, with extensive support from Microsoft promoting C# as it's primary .NET framework language it gained a large audience and became one of the most popular programming languages in the world.
+Some say that the sharp symbol also resembles four ”+” symbols (in a 2x2 grid), implying that the language is an increment of C++.
 
-By the time this chapter was written, C# version stands at 7.0 and is continuously evolving.
+In its early 1.0 version, C# looked a lot like its predecessor Java (released in 1991).
+But it has grown quickly since then. With extensive support from Microsoft promoting C# as its primary .NET framework language, it gained a large audience and became one of the most popular programming languages in the world.
+
+At the time of writing this chapter, C# version stands at 7.0 and is continuously evolving.
