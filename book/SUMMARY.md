@@ -38,6 +38,19 @@
   * [Conclusion](languages/python/conclusion.md)
 
 
+* [C#](languages/csharp/README.md)
+
+  * [Introduction](languages/csharp/intro.md)
+
+  * [History](languages/csharp/history.md)
+
+  * [Advantages](languages/csharp/advantages.md)
+
+  * [Disadvantages](languages/csharp/disadvantages.md)
+
+  * [Conclusion](languages/csharp/conclusion.md)
+
+
 * [C++](languages/cpp/README.md)
   * [Introduction](languages/cpp/intro.md)
 
