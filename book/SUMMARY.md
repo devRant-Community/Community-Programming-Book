@@ -21,21 +21,21 @@
   * [Conclusion](languages/assembly/conclusion.md)
 
 
-  * [ABC](languages/abc/README.md)
+* [ABC](languages/abc/README.md)
 
-    * [Introduction](languages/abc/intro.md)
+  * [Introduction](languages/abc/intro.md)
 
-    * [History](languages/abc/history.md)
+  * [History](languages/abc/history.md)
 
-    * [What it solves?](languages/abc/what_it_solves.md)
+  * [What it solves?](languages/abc/what_it_solves.md)
 
-    * [Advantages](languages/abc/advantages.md)
+  * [Advantages](languages/abc/advantages.md)
 
-    * [Disadvantages](languages/abc/disadvantages.md)
+  * [Disadvantages](languages/abc/disadvantages.md)
 
-    * [An Example](languages/abc/misc.md)
+  * [An Example](languages/abc/misc.md)
 
-    * [Conclusion](languages/abc/conclusion.md)
+  * [Conclusion](languages/abc/conclusion.md)
 
 * [Python](languages/python/README.md)
 
