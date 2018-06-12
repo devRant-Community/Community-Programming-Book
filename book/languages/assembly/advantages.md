@@ -8,14 +8,14 @@ Since machine code and assembly are tied together, assembly can be used in appli
 The assembly language can be used in these types of application:
 
 * To build software which requires serious machine level optimizations or to beat compilers in code optimization. \
-  For eg.: System software in an OS (not needed though as modern compilers do a pretty good job).
+  For e.g.: System software in an OS (not needed though as modern compilers do a pretty good job).
 
 * In embedded programming where space is limited to an extent that higher level languages
-  (like C) can use more space then required or actually present.
+  (like C) can use more space than required or actually present.
 
 * To access hardware features which are either platform specific or too uncommon and not
   available for optimization in higher languages such as C.
 
 * Written for custom hardware that doesn't have a mechanism to convert high level code
   into binary. The Apollo 11 lunar mission is an example of this as it used code
-  written in assembly.
+  written in assembly in an era where high level languages did not exist.
