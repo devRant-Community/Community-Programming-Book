@@ -136,6 +136,8 @@ Continuation.
 
 * Emphasis should **NOT** be used as a header.
 
+* Use ``---`` for horizontal rules 
+
 * Two top-level headers should **NOT** be present.
 
 ```md
@@ -144,6 +146,19 @@ This is wrong format
 # Heading 1
 
 # Heading 2
+```
+
+* Always use ATX style headers
+```
+Correct:
+# ATX style H1
+
+
+Wrong:
+## Closed ATX style H2 ##
+
+Setext style H1
+===============
 ```
 
 * Leave a space after hash on atx style header and after the "\*" symbol in list elements.
@@ -157,6 +172,8 @@ Wrong:
 #Heading
 *List element
 ```
+
+For everything else the standard rules, described [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md), apply.  
 
 If there are any mistakes in format, the build will fail and the mistakes are
 prompted by @SkayoBot to be corrected. An example prompt is given.
