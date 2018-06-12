@@ -2,7 +2,7 @@
 
 ## Creation
 
-ABC was created in the early 1980's by Leo Geurts, Lambert Meertens and Steven Pemberton at
+ABC was created in the early 1980s by Leo Geurts, Lambert Meertens and Steven Pemberton at
 the Centrum Wiskunde & Informatica (CWI) in the Netherlands. ABC language was developed iteratively
 with it being the fourth iteration. All the previous versions/iterations of this language were called as B.
 
@@ -17,7 +17,7 @@ ABC was intended for teaching and prototyping purposes rather than systems progr
 It was created to replace some older languages such as BASIC, Pascal and AWK. As it turns out ABC
 is easier to learn than BASIC but more powerful than Pascal. It's initial aims were to be:
 
-* SImple
+* Simple
 
 * Interactive
 
