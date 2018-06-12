@@ -1,6 +1,6 @@
 # How to contribute
 
-## Pre-requisites
+## Prerequisites
 
 First of all fork [this repository](https://github.com/devRant-Community/Community-Programming-Book/)
 and join this [discord server](https://discord.gg/TDut3Fq).
@@ -82,7 +82,7 @@ to the one given in the example below.
 ```
 
 Note that Summary.md contains the order in which various chapters and the
-sub-chapters appear in the final product. Hence the entries should be made
+sub-chapters appear in the final product, hence the entries should be made
 appropriately. Also note that various languages in the Summary.md file appear
 in the order of creation/release.
 
