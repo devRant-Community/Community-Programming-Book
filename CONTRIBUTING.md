@@ -83,7 +83,7 @@ to the one given in the example below.
 
 Note that Summary.md contains the order in which various chapters and the
 sub-chapters appear in the final product, hence the entries should be made
-appropriately. Also note that various languages in the Summary.md file appear
+appropriately. Also, note that various languages in the Summary.md file appear
 in the order of creation/release.
 
 For example the Summary.md file with two languages, Assembly and Python.
@@ -109,7 +109,7 @@ After finishing your work, submit a pull request (PR) for merging your changes
 into the base branch. Add  the editing team as reviewers. If the pull request
 adds a new chapter, then add the label "new-chapter".
 
-Also close any previously opened issue(s) which are fulfilled by the
+Also, close any previously opened issue(s) which are fulfilled by the
 pull request.
 
 Every pull request undergoes an automatic build process which automatically
