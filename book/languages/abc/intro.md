@@ -5,4 +5,4 @@ programming language. This language was born after a lot of research on creating
 language that was both powerful with respect to features and also easy to learn.
 
 It is a high level language and supports data structuring and structured programming.
-During it's time, ABC was a powerful language for beginners and experts alike.
+During its time, ABC was a powerful language for beginners and experts alike.
