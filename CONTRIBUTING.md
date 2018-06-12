@@ -136,7 +136,7 @@ Continuation.
 
 * Emphasis should **NOT** be used as a header.
 
-* Use ``---`` for horizontal rules 
+* Use ``---`` for horizontal rules
 
 * Two top-level headers should **NOT** be present.
 
@@ -149,7 +149,8 @@ This is wrong format
 ```
 
 * Always use ATX style headers
-```
+
+```md
 Correct:
 # ATX style H1
 
@@ -173,7 +174,7 @@ Wrong:
 *List element
 ```
 
-For everything else the standard rules, described [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md), apply.  
+For everything else the standard rules, described [here](https://github.com/markdownlint/markdownlint/blob/master/docs/RULES.md), apply.
 
 If there are any mistakes in format, the build will fail and the mistakes are
 prompted by @SkayoBot to be corrected. An example prompt is given.
