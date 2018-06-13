@@ -1,4 +1,5 @@
 # Community-Programming-Book
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 [![View on GitBook](https://img.shields.io/badge/View%20on-GitBook-blue.svg?style=flat-square)](https://cpb.gitbook.io/book/)
 [![Build Status](https://img.shields.io/travis/devRant-Squad/Community-Programming-Book.svg?style=flat-square&logo=travis)](https://travis-ci.org/devRant-Squad/Community-Programming-Book)
