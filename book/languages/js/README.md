@@ -1,6 +1,6 @@
 # Oh, hello there
 
-> This chapter has been authored by Konrad Klawikowski and Gadila Shashank Reddy.
+> This chapter has been authored by Konrad RootPixl Klawikowski and Gadila Shashank Reddy.
 
-Welcome to the JavaScript chapter! I would like to let you know a bit more about
-JavaScript and programming in that language.
+Welcome to the JavaScript chapter! We would like to let you know a bit more about
+JavaScript and programming in JavaScript.
