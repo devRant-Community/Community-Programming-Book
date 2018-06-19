@@ -68,6 +68,26 @@
 * [C++](languages/cpp/README.md)
   * [Introduction](languages/cpp/intro.md)
 
+* [JS](languages/js/README.md)
+
+  * [Introduction](languages/js/intro.md)
+
+  * [History](languages/js/history.md)
+
+  * [Versions](languages/js/versions.md)
+
+  * [Trademark](languages/js/trademark.md)
+
+  * [What it solves?](languages/js/what_it_solves.md)
+
+  * [Advantages](languages/js/advantages.md)
+
+  * [Disadvantages](languages/js/disadvantages.md)
+
+  * [An example code](languages/js/misc.md)
+
+  * [Conclusion](languages/js/conclusion.md)
+
 ## End
 
 * [Credits](credits.md)
