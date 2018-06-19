@@ -12,3 +12,36 @@
 * The Mozilla Foundation was founded in 1998 by the members of Netscape Communications.
 
 * JS is licensed by Oracle to Netscape Communications then and currently to the Mozilla Foundation.
+
+## An Example
+
+This section will compare Hello World program in JavaScript with other languages.
+
+### JavaScript
+
+```JavaScript
+"use strict"  // This declares strict mode and using it is a good security practice.
+console.log("Hello world!");  // semicolon is not mandatory but recommended
+```
+
+### Kotlin
+
+```Kotlin
+fun main(args: Array<String>) {
+    println("Hello world!")
+}
+```
+
+### Python
+
+```Python
+print "Hello world!"
+```
+
+### Ruby
+
+```Ruby
+puts "Hello world!"
+```
+
+Though the example was a simple one, we all start from writing Hello World, don't we? :)

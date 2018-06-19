@@ -21,4 +21,5 @@ static content was served and the user was only able to read it.
 
 Even further improvements meant that JS was able to handle server-side scripts and computing and
 also used in developing native and stand-alone applications instead of being only restricted to the
-browser environment.
+browser environment. Also JacvaScript has a relatively high speed of execution though not as fast
+as C or Rust.
