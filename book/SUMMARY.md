@@ -20,6 +20,8 @@
 
   * [Conclusion](languages/assembly/conclusion.md)
 
+* [C++](languages/cpp/README.md)
+  * [Introduction](languages/cpp/intro.md)
 
 * [ABC](languages/abc/README.md)
 
@@ -53,6 +55,20 @@
 
   * [Conclusion](languages/python/conclusion.md)
 
+* [JavaScript](languages/js/README.md)
+
+  * [Introduction](languages/js/intro.md)
+
+  * [History](languages/js/history.md)
+
+  * [Purpose & Advantages](languages/js/advantages.md)
+
+  * [Disadvantages](languages/js/disadvantages.md)
+
+  * [Some interesting facts](languages/js/misc.md)
+
+  * [Conclusion](languages/js/conclusion.md)
+
 * [C#](languages/csharp/README.md)
 
   * [Introduction](languages/csharp/intro.md)
@@ -64,9 +80,6 @@
   * [Disadvantages](languages/csharp/disadvantages.md)
 
   * [Conclusion](languages/csharp/conclusion.md)
-
-* [C++](languages/cpp/README.md)
-  * [Introduction](languages/cpp/intro.md)
 
 ## End
 
