@@ -16,6 +16,8 @@ Some of its variants are also used in creating desktop and mobile native apps (P
 > The file extension of JavaScript is .js
 
 ```md
- The ".js" extension in the names of some frameworks like React.js is supposed to mean that they
- are related to JavaScript and not that they are individual files written in JavaScript.
-```
+ The ".js" extension in the names of some frameworks like
+ React.js is supposed to mean that they are related to
+ JavaScript and not that they are individual files
+ written in JavaScript.
+ ```
