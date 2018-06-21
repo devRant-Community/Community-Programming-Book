@@ -20,6 +20,8 @@
 
   * [Conclusion](languages/assembly/conclusion.md)
 
+* [C++](languages/cpp/README.md)
+  * [Introduction](languages/cpp/intro.md)
 
 * [ABC](languages/abc/README.md)
 
@@ -64,9 +66,6 @@
   * [Disadvantages](languages/csharp/disadvantages.md)
 
   * [Conclusion](languages/csharp/conclusion.md)
-
-* [C++](languages/cpp/README.md)
-  * [Introduction](languages/cpp/intro.md)
 
 ## End
 
