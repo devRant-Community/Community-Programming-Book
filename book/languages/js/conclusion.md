@@ -12,6 +12,6 @@ gateway to exploit negligent or non careful users.
 
 ## Regarding the authors
 
-This chapter was originally written by Konrad Klawikowski and additions were made to it
-by Gadila Shashank Reddy. For the original chapter written by Konrad, see
-[here.](https://github.com/Skayo/Community-Programming-Book/tree/e4d4f35d8236ce589e6d8c35df5dd05388e3541f/book/languages/js)
+This chapter was originally written by Skayo and additions were made to it
+by Gadila Shashank Reddy. For the original content written by Konrad, see
+[here.](https://github.com/Skayo/Community-Programming-Book/tree/f8c9cf8fc2d7cad783f85393e3e5103f8bc76b35/book/languages/js)
