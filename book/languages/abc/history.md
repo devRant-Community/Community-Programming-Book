@@ -2,14 +2,16 @@
 
 ## Creation
 
-ABC was created in the early 1980s by Leo Geurts, Lambert Meertens and Steven Pemberton at
-the Centrum Wiskunde & Informatica (CWI) in the Netherlands. ABC language was developed iteratively
-with it being the fourth iteration. All the previous versions/iterations of this language were called as B.
+ABC was created by by Leo Geurts, Lambert Meertens and Steven Pemberton at
+the Centrum Wiskunde & Informatica (CWI) in the Netherlands. It was developed iteratively with ABC
+being the fourth iteration. The first two iterations were developed by Geurts and Meertens at the
+CWI between 1975-76 and 1977-79 respectively. The third iteration was developed between 1979-81 with
+the help of Robert Dewar from the New York University and had "B" as a working title.
 
-It is said that the first version of B appeared in 1969. So we can say that ABC went through a long
-phase of development and changes before it took its current form.
-
-Note that B is not a predecessor of the C programming language.
+After using B for 5 years, Geurts, Meertens and Pemberton came up with a new iteration based on the
+pros and cons of B and other programming languages of the time. They named this language *ABC* and
+as of 1986, it was ready for a formal release and was undergoing final revisions. Probably ABC was
+released to the public in 1987.
 
 ## Purpose
 
