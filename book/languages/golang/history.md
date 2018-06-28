@@ -1,6 +1,6 @@
 # History
 
-## Far, far a way in a company called **Google**... was created Golang programming language.
+## Far, far a way in a company called **Google**... was created Golang programming language
 
 It was announced in **November 2009**,
 but it 1.0 version was released in **March 2012**.
@@ -18,6 +18,6 @@ They wanted to make programming language:
 
 * that **is statically typed** and **scalable** to large systems (ex. Java or C++).
 
-## Golang now.
+## Golang now
 
 Now Golang is used in some of **Google** production systems, but it's well recognized language on whole Earth.

@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there
 
 > This chapter was made by Konrad RootPixl Klawikowski.
 

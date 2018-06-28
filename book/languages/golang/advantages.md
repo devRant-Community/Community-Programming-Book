@@ -1,4 +1,4 @@
-## Advantages of Golang.
+# Advantages of Golang
 
 Here are some advantages of using it:
 
