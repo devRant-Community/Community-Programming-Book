@@ -2,16 +2,19 @@
 
 Here are some advantages of using it:
 
-* **Go compiles directly to the machine code**, compilation is fast, **cross-platform** and it creates only one executable file without dependencies,
+* **Go compiles directly into machine code**. Compilation is fast, **cross-platform compatible** and it creates only 
+  one executable file without dependencies.
 
-* It is **safe**, it's strong and static typed. Also, garbage would be collected and you can make really reliable software using Go,
+* It is **safe**, as it uses strong and static typing. Also, garbage would be collected automatically and 
+  you can make really reliable software using Go.
 
-* It supports some kinds of **object-oriented programming (OOP)**, supports interfaces,
+* It supports some kinds of **object-oriented programming (OOP)** and interfaces.
 
-* You can attach functions to any type, that's real flexibility,
+* You can attach functions to any type. That's real flexibility.
 
-* Also, Golang supports functional programming as **anonymous functions**, **closueres** and **first-class functions**,
+* Also, Golang supports functional programming features like **anonymous functions**, **closueres** and **first-class functions**.
 
-* Almost all things comes with standard library, that is part of Go by default, that things are like **http fetching**, **json parsing** and **encryption**,
-
-* Nice feature, Go has great built-in command-line tools (ex. **auto-formatting your code**, **test coverage reporting**, **refactoring tools**).
+* Common utitlities like **http fetching**, **json  parsing** and **encryption** are included by default in Go in the 
+  form of standard libraries.
+  
+* Go has great built-in command-line tools (ex. **auto-formatting your code**, **test coverage reporting**, **refactoring tools**).
