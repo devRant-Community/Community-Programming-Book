@@ -2,7 +2,7 @@
 
 Here are some advantages of using it:
 
-* **Go compiles directly into machine code**. Compilation is fast, **cross-platform compatible** and it creates only 
+* **Go compiles directly into machine code**. Compilation is fast, **cross-platform compatible** and it creates only
   one executable file without dependencies.
 
 * It is **safe**, as it uses strong and static typing. Also, garbage would be collected automatically and 
