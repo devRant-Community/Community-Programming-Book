@@ -1,6 +1,6 @@
 # Advantages of Golang
 
-Here are some advantages of using it:
+## Here are some advantages of using it
 
 * **Go compiles directly into machine code**. Compilation is fast, **cross-platform compatible** and it creates only
   one executable file without dependencies.
