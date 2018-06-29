@@ -4,8 +4,8 @@
 
 **Golang** (GO) is another high-level programming language.
 It's usually used to make **backend stuff**.
-But, as it always is, community of language made a lot of frameworks,
-for example, community made framework to use Golang as a frontend language (ex. **Buffalo**).
+But, as it always is, community made a lot of frameworks based on Golang,
+for example, A framework to use Golang as a frontend language (ex. **Buffalo**).
 Also, you can create Desktop UI in Golang.
 Amount of frameworks for Golang is not such a big deal as it was for JavaScript,
 but it's nice to have something more than just pure language.
