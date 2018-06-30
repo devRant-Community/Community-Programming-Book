@@ -1,16 +1,16 @@
 # Some interesting things about Golang
 
-* **Twitch.tv** IRC based chat was migrated from Python to Golang
+* **Twitch.tv**, an IRC based chat was migrated from Python to Golang
 
 * **SoundCloud** says they use Golang for ``dozens of systems``
 
-* **Netlix** use it for their server architecture
+* **Netflix** use it for their server architecture
 
-* **Docker** use Golang for set of tools that deploys Linux containers
+* **Docker** uses Golang for a set of tools that deploys Linux containers
 
-* **Uber** geo data stuff is build on Golang
+* **Uber** has their geo data and location components built on Golang
 
-## Example od code written in Go compared to other languages
+## Example of code written in Go compared to other languages
 
 ### Golang
 

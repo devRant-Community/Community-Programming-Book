@@ -4,7 +4,7 @@
 
 * *No support for generics*, but Golang team is *still* thinking about adding it.
 
-* **Smaller amount of packages** comparing to Node.js or Ruby.
+* **Smaller amount of packages** compared to Node.js or Ruby.
 
 * *No support* for overloading a function.
 

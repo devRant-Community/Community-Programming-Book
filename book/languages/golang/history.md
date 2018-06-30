@@ -10,7 +10,7 @@ They were **Google** engineers and Go was an experiment.
 
 They wanted to make programming language:
 
-* that **doesn't require** IDE, but with support for them,
+* that **doesn't require** IDE but with support for them,
 
 * that **supports** networking and multitasking,
 
@@ -20,4 +20,4 @@ They wanted to make programming language:
 
 ## Golang now
 
-Now Golang is used in some of **Google** production systems, but it's well recognized language on whole Earth.
+Now Golang is used in some of **Google** production systems, but it's well-recognized language on whole Earth.
