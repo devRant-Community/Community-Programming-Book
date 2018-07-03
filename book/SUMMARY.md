@@ -80,6 +80,20 @@
   * [Disadvantages](languages/csharp/disadvantages.md)
 
   * [Conclusion](languages/csharp/conclusion.md)
+ 
+ * [Go](languages/golang/README.md)
+   
+   * [Introduction](languages/golang/intro.md)
+   
+   * [History](languages/golang/history.md)
+   
+   * [Advantages](languages/golang/advantages.md)
+   
+   * [Disadvantages](languages/golang/disadvantages.md)
+   
+   * [Some interesting facts](languages/golang/misc.md)
+   
+   * [Conclusion](languages/golang/conclusion.md)
 
 ## End
 
