@@ -2,5 +2,5 @@
 
 > This chapter was made by Konrad RootPixl Klawikowski.
 
-Welcome in the Golang part!
+Welcome to the Golang part!
 I hope you'll enjoy this chapter.
