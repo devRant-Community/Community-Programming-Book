@@ -23,7 +23,8 @@
 hello_world() -> io:fwrite("hello, world\n").
 ```
 
-* After this is done, you'll need more work. Save it as hello.erl and compile it from the erlang shell.
+After this is done, you'll need more work.
+Save it as hello.erl and compile it from the erlang shell.
 Don't forget the full-stop ("period" in American English) at the end of each command, as shown:
 
         Erlang (BEAM) emulator version 4.9.1 [source]
@@ -31,8 +32,7 @@ Don't forget the full-stop ("period" in American English) at the end of each com
         c(hello).
         {ok,hello}
 
-
-* (on unix systems you start the erlang shell by typing "erl" at the command line.
+(on unix systems you start the erlang shell by typing "erl" at the command line.
 On Windows, open a command prompt window and type "werl", or find the Erlang icon in the programs menu).
 To run the program from the Erlang shell:
 
