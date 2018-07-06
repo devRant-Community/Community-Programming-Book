@@ -1,6 +1,5 @@
 # Some interesting facts about Erlang
 
-
 * WhatsApp messaging system is build on Erlang, it supports over 800 million users and 30 billion messages per day
 
 * bet365 uses Erlangin their Online Gambling & Betting industry.
@@ -39,7 +38,6 @@ To run the program from the Erlang shell:
         hello:hello_world().
         hello, world
         ok
-
 
 ### **JavaScript**
 
