@@ -95,6 +95,20 @@
 
   * [Conclusion](languages/golang/conclusion.md)
 
+* [Erlang](languages/erlang/README.md)
+
+  * [Introduction](languages/erlang/intro.md)
+
+  * [History](languages/erlang/history.md)
+
+  * [Advantages](languages/erlang/advantages.md)
+
+  * [Disadvantages](languages/erlang/disadvantages.md)
+
+  * [Some interesting facts](languages/erlang/misc.md)
+
+  * [Conclusion](languages/erlang/conclusion.md)
+
 ## End
 
 * [Credits](credits.md)
