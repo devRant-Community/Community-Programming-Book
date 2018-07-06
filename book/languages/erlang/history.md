@@ -2,7 +2,8 @@
 
 ## Erlang, and its name meaning
 
-The name *Erlang* was given in honor of the first scientist in the field of telecommunications: **Agner Krarup Erlang (1878-1929)**, Dunstan's mathematics, **pioneer in telecommunications traffic theory** and queue theory. Sometimes the name of language is sometimes interpreted as **Er**icsson + *Lang*uage = **Er***lang*.
+The name *Erlang* was given in honor of the first scientist in the field of telecommunications: **Agner Krarup Erlang (1878-1929)**,
+Dunstan's mathematics, **pioneer in telecommunications traffic theory** and queue theory. Sometimes the name of language is sometimes interpreted as **Er**icsson + *Lang*uage = **Er***lang*.
 
 ## In Ericsson lab
 
