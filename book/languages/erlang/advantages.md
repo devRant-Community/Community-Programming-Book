@@ -1,6 +1,6 @@
 # Advantages of Erlang
 
-## Some of the Erlang advantages
+Some of the Erlang advantages are:
 
 * **Concurrency**
 
@@ -18,4 +18,4 @@
 
 * **Hot code upgrade**
 
-        You don't have to stop system to udpate code.
+        You don't have to stop system to update code.
