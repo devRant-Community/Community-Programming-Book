@@ -2,11 +2,12 @@
 
 ## Inception
 
-**Erlang** firstly appeared in the Ericsson laboratory and it is successfully used in projects requiring **high scalability and resistance to failures**.
+**Erlang** first appeared in the Ericsson laboratory and it is successfully used in projects requiring **high scalability and resistance to failures**.
 
 It is a **functional**, **dynamic language** with strict typing in which the main focus was on concurrency and **processing capabilities distributed**.
 
-Erlang **was a proprietary programming language** used by **Ericsson**, but since **1998** when the source code was opened, is gaining popularity day by day.
+Erlang **was a proprietary programming language** used by **Ericsson**, but since **1998** when the source code was open sourced
+and is gaining popularity day by day.
 
 It is successfully used in **commercial products** (for example: **WhatsApp**) around the world that go many times beyond its **telecommunications roots**.
 
