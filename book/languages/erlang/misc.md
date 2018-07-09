@@ -4,13 +4,13 @@
 
 * bet365 uses Erlangin their Online Gambling & Betting industry.
 
-* Erlang transports 40% of all telecoms data
+* Erlang transports 40% of all telecom data
 
 * Erlang can be used in everywhere on the backend
 
-* 3 of the leading banks are build on Erlang
+* 3 of the leading banks are built on Erlang
 
-* 2 of the leading blockchains are build on Erlang
+* 2 of the leading blockchains are built on Erlang
 
 ## Example of **Hello World** code written in Erlang compared to other languages
 
