@@ -20,7 +20,7 @@ He modeled Erlang on the **Prolog language** and wrote first Erlang interpreter 
 In **1990**, Erlang was shown publicly at the **ISS '90 conference**, which resulted in increased number of users.
 But the first implementation of the language was so inefficent that in the **late 1980s** itself, work began on a faster version.
 **It's final release took place in 1991**.
-**A Year later**, the first book about Erlang was published and in **1993**, Ericsson launched an independent department 
+**A Year later**, the first book about Erlang was published and in **1993**, Ericsson launched an independent department
 assigned with the development and distribution of the system and tools for it.
 
 In **1998**, Ericsson launched **AXD301** switch with software that contained a milion lines of code in Erlang, which achieved a reliability index of **99.9999999%** (that's the real number!), which meant that in a year of usage, the system could
