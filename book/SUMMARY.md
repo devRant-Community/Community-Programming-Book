@@ -69,8 +69,6 @@
 
   * [Conclusion](languages/erlang/conclusion.md)
 
-
-
 * [JavaScript](languages/js/README.md)
 
   * [Introduction](languages/js/intro.md)
