@@ -1,4 +1,4 @@
-# Advantages of Golang
+# Advantages
 
 ## Here are some advantages of using it
 
@@ -15,5 +15,5 @@
 * Also, Golang supports functional programming features like **anonymous functions**, **closueres** and **first-class functions**.
 
 * Common utilities like **HTTP fetching**, **JSON  parsing** and **encryption** are included by default in Go in the form of standard libraries.
-  
+
 * Go has great built-in command-line tools (ex. **auto-formatting your code**, **test coverage reporting**, **refactoring tools**).

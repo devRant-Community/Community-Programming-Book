@@ -1,4 +1,4 @@
-# Where would you use python?
+# Advantages
 
 Python doesn't have a target audience. It can be used for multiple purposes and there are several
 libraries and frameworks built to  simplify specific applications. Some fields where python can be best
