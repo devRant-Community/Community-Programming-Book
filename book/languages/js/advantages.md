@@ -1,4 +1,4 @@
-# Purpose & Advantages
+# Advantages
 
 JavaScript was initially created to fulfill the following requirements :
 

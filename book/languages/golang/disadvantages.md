@@ -1,4 +1,4 @@
-# Disadvantages of Golang
+# Disadvantages
 
 ## Some `bad` stuff about Golang
 

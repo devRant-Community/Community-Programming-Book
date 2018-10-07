@@ -12,7 +12,7 @@
 
   * [History](languages/assembly/history.md)
 
-  * [What it solves?](languages/assembly/what_it_solves.md)
+  * [What it solves](languages/assembly/what_it_solves.md)
 
   * [Advantages](languages/assembly/advantages.md)
 
@@ -29,7 +29,7 @@
 
   * [History](languages/abc/history.md)
 
-  * [What it solves?](languages/abc/what_it_solves.md)
+  * [What it solves](languages/abc/what_it_solves.md)
 
   * [Advantages](languages/abc/advantages.md)
 
@@ -45,7 +45,7 @@
 
   * [History](languages/python/history.md)
 
-  * [What it solves?](languages/python/what_it_solves.md)
+  * [What it solves](languages/python/what_it_solves.md)
 
   * [Advantages](languages/python/advantages.md)
 
