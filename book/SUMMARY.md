@@ -21,7 +21,16 @@
   * [Conclusion](languages/assembly/conclusion.md)
 
 * [C++](languages/cpp/README.md)
+
   * [Introduction](languages/cpp/intro.md)
+
+  * [History](languages/cpp/history.md)
+
+  * [Advantages](languages/cpp/advantages.md)
+
+  * [Disadvantages](languages/cpp/disadvantages.md)
+
+  * [Conclusion](languages/cpp/conclusion.md)
 
 * [ABC](languages/abc/README.md)
 
