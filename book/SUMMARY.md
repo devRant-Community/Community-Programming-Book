@@ -109,6 +109,20 @@
 
   * [Conclusion](languages/golang/conclusion.md)
 
+* [Haskell](languages/haskell/README.md)
+
+  * [Introduction](languages/haskell/intro.md)
+
+  * [History](languages/haskell/history.md)
+
+  * [Advantages](languages/haskell/advantages.md)
+
+  * [Disadvantages](languages/haskell/disadvantages.md)
+
+  * [Some interesting facts](languages/haskell/misc.md)
+
+  * [Conclusion](languages/haskell/conclusion.md)
+
 ## End
 
 * [Credits](credits.md)
