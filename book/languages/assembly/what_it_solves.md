@@ -1,4 +1,4 @@
-# Why Assembly?
+# What it solves
 
 Consider this instruction, where we have to add the two numbers 1 and 2.
 
