@@ -1,4 +1,4 @@
-# Where would you use assembly ?
+# Advantages
 
 Currently assembly is used very rarely, because nowadays we use higher-level languages which are "translated" through an assembler to assembly and then assembly makes machine code out of it.
 Since machine code and assembly are tied together, assembly can be used in applications where speed and performance is of importance, to optimize directly the machine code.

@@ -1,4 +1,4 @@
-# Some interesting facts about Erlang
+# Some interesting facts
 
 * WhatsApp messaging system is build on Erlang, it supports over 800 million users and 30 billion messages per day
 

@@ -1,4 +1,4 @@
-# Advantages of Erlang
+# Advantages
 
 Some of the Erlang advantages are:
 

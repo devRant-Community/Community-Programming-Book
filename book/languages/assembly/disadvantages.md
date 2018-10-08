@@ -1,4 +1,4 @@
-# Shortcomings
+# Disadvantages
 
 Consider the same example as in the previous section to add two numbers, lets say 1 and 2, but this time it is written in C.
 

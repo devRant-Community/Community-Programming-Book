@@ -1,4 +1,4 @@
-# A final word
+# Conclusion
 
 Assembly language is a big leap from machine code towards higher level languages, but like any other programming language assembly also has its own set of advantages and disadvantages.
 
