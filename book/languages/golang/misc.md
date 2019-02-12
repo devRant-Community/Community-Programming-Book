@@ -1,4 +1,4 @@
-# Some interesting things about Golang
+# Some interesting things
 
 * **Twitch.tv**, an IRC based chat was migrated from Python to Golang
 

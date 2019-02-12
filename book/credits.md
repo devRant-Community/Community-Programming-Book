@@ -40,6 +40,7 @@ We have to thank these great people on helping to write this book. Everyone here
 - Konrad Nachtigall "Unrooted"
 
   - [devRant](https://devrant.com/users/RootPixl)
+
   - [GitHub](https://github.com/Unrooted)
   
 - Lucas Parzianello
