@@ -10,4 +10,4 @@
   
 * Lazy evaluation, they delay the evaluation of an expression until its value is needed
 
-* Monads, which provide us a single way to describe many types of computation that seem very different at first
+* Monads, which provide us with a single way to describe many types of computation that seem very different at first

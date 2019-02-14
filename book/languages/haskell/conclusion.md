@@ -1,8 +1,8 @@
 # Conclusion
 
 It's really useful to know Haskell.
-That language seems really underrated by community of other languages.
-It's nice to know more languages and their features beacause no one knows when we'll need specified technology.
+That language seems really underrated by the community of other languages.
+It's nice to know more languages and their features because no one knows when we'll need specified technology.
 If you do love math, you're gonna love Haskell
 
 ## Sources

@@ -4,7 +4,7 @@
 
 * For some, that stuff like <:> >>= <=< @>-,-'--() in every line can be annoying
 
-* Some people are going mad when they see all the possible ways to write our the same thing
+* Some people are going mad when they see all the possible ways to write out the same thing
 
 * Tooling is limited, awkward and slow
 
