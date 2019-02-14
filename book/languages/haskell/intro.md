@@ -2,9 +2,9 @@
 
 ## Inception
 
-**Haskell** is **standarized, general-purpose compiled purely functional programming language**.
-Haskell is written in several languages,but **it's basically mixture of C and Assembly**.
-This language, was created, by whole team, that included:
+**Haskell** is **standardized, general-purpose compiled purely functional programming language**.
+Haskell is written in several languages but **it's basically a mixture of C and Assembly**.
+This language was created, by the whole team, that included:
 
 * Lennart Augustsson
 * Dave Barton
@@ -43,6 +43,6 @@ This language, was created, by whole team, that included:
 
 * cache in functions
 
-**Haskell** specification is published and open for everyone. **Glasgow Haskell Compiler (GHC)** is it's main implementation, which is both, native-code compiler and interpreter, that runs on most of the platforms.
+**Haskell** specification is published and open for everyone. **Glasgow Haskell Compiler (GHC)** is its main implementation, which is both, native-code compiler and interpreter, that runs on most of the platforms.
 
 > File extensions for Haskell code are .hs and .lhs
