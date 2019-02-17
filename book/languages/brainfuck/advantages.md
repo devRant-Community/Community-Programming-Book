@@ -4,7 +4,7 @@ Generally speaking, currently, Brainfuck is seen as joke language or proof-of-co
 
 First of all, it's a really good exercise for your brain! Brainfuck, as the name suggests, is very hard to write and read, but not understand! You don't have to waste a lot of time just to understand this fascinating language, you can view it as Sudoku of programming.
 
-Also, Brainfuck is a great learning tool. You can create code generators, optimizing interpreters, learn JIT & AOT compilation basics, compiler construction (by, for example, creating compiler from Brainfuck to C or some kind of assembly language to Brainfuck).
+Also, Brainfuck is a great learning tool. You can create code generators, optimizing interpreters, learn JIT & AOT compilation basics, compiler construction (by, for example, creating a compiler from Brainfuck to C or some kind of assembly language to Brainfuck).
 
 Brainfuck is really simple too! It consists of eight instructions so it's really easy to learn.
 
