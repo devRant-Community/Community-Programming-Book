@@ -9,7 +9,7 @@ You don't have to waste a lot of time just to understand this fascinating langua
 Also, Brainfuck is a great learning tool. You can create code generators, optimizing interpreters, learn JIT & AOT compilation basics,
 compiler construction (by, for example, creating compiler from Brainfuck to C or some kind of assembly language to Brainfuck).
 
-Brainfuck is really simple too! It consists of eight instructions so it's really easy to learn. 
+Brainfuck is really simple too! It consists of eight instructions so it's really easy to learn.
 
 Let's imagine Brainfuck computer - it would consume really small amount of power (x86 has wide instruction set, ARM has it tighter, while Brainfuck
 destroys other real architectures having only eight!) and excel in simple tasks.
