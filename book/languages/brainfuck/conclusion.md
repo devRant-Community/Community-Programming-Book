@@ -9,7 +9,7 @@ To program Brainfuck you'd need just pencil and resonable amount of paper. Of co
 but it's way less practical.
 
 To play around with Brainfuck you need basically no experience - basic knowledge of maths and decent imagination are going to be
-sufficent. 
+sufficent.
 
 Summing aroung disadvantages and advantages - Brainfuck is inpractical and it shouldn't be considered real language. But there's
 nothing bad in playing with it!
