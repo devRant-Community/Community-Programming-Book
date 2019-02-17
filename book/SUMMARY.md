@@ -133,7 +133,7 @@
 
   * [Conclusion](languages/haskell/conclusion.md)
   
-* [Brainfuck](languages/haskell/README.md)
+* [Brainfuck](languages/brainfuck/README.md)
 
   * [Introduction](languages/brainfuck/intro.md)
 
