@@ -25,7 +25,7 @@ Simulation is one way to prove Turing completness:
  > If an interpreter for A can be implemented in B, then B can solve at least as many problems as A can.
 
 There are some difficulties with this way of proving turing completness (ℒ), but for Brainfuck it's entirely sufficent. By theory,
-Brainfuck is ℒ-complete too, so the proof is fully valid.
+it's ℒ-complete too, so the proof is fully valid.
 
-Brainfuck is amazing language. One must still understand where Brainfuck would be suitable, and where it doesn't particularly excel
+Brainfuck is amazing language. One must still understand where it would be suitable, and where it doesn't particularly excel
 at.
