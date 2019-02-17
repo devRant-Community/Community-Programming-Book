@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome
 
 > This chapter has been authored by  Krzysztof Szewczyk "Παλαιολόγος".
 
