@@ -132,6 +132,18 @@
   * [Some interesting facts](languages/haskell/misc.md)
 
   * [Conclusion](languages/haskell/conclusion.md)
+  
+* [Brainfuck](languages/haskell/README.md)
+
+  * [Introduction](languages/brainfuck/intro.md)
+
+  * [History](languages/brainfuck/history.md)
+
+  * [Advantages](languages/brainfuck/advantages.md)
+
+  * [Disadvantages](languages/brainfuck/disadvantages.md)
+
+  * [Conclusion](languages/brainfuck/conclusion.md)
 
 ## End
 
