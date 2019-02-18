@@ -145,7 +145,7 @@
 
   * [Conclusion](languages/brainfuck/conclusion.md)
   
-  * [Some interesting facts](languages/erlang/misc.md)
+  * [Some interesting facts](languages/brainfuck/misc.md)
 
 ## End
 
