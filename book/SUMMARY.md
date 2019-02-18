@@ -144,6 +144,8 @@
   * [Disadvantages](languages/brainfuck/disadvantages.md)
 
   * [Conclusion](languages/brainfuck/conclusion.md)
+  
+  * [Some interesting facts](languages/erlang/misc.md)
 
 ## End
 
