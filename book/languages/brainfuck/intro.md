@@ -2,7 +2,7 @@
 # Introduction
 
 Brainfuck is the most famous esoteric programming language ever made. It's an esoteric language, so it was not meant to be used
-in solving real-world problems (but, no one forbids You too!). The language can't be classified clearly. Partly it's a very high-level language - Brainfuck doesn't bind itself to any architecture making it very portable language. On the other hand, it's very
+in solving real-world problems (but, no one forbids You to!). The language can't be classified clearly. Partly it's a very high-level language - Brainfuck doesn't bind itself to any architecture making it very portable language. On the other hand, it's very
 low-level language - it supports only addition and subtraction, basic control structure (`while`-like loop), basic I/O (terminal
 only, shrinking capabilities to the absolute minimum), and indefinitely long tape where any byte can be stored arbitrarily. Brainfuck
 is Turing complete, meaning that it is in the same computational class as universal Turing machines. This, plus its amount of
