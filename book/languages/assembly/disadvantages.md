@@ -3,12 +3,12 @@
 Consider the same example as in the previous section to add two numbers, lets say 1 and 2, but this time it is written in C.
 
 ```C
-#include<stdio.h>
-int main()
-{
+#include <stdio.h>
+
+int main(void) {
     int x = 1;
     int y = 2;
-    int z = x+y;
+    int z = x + y;
     return 0;
 }
 ```
