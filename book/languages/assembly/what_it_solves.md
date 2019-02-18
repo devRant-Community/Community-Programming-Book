@@ -24,7 +24,7 @@ ba01000000b80200000001d0
 a:  01 d0            add eax,edx
 ```
 
-## Binary code with a mistake. Happy debugging!
+## Binary code with a mistake. Happy debugging
 
 ```binary
 000000000001001010000000000100110000000000100011000000000001001100000000010100101000001101100011
