@@ -1,7 +1,7 @@
 
 # Miscellaneous
 
-Brainfuck is awesome language with wide range of community-made tools.
+Brainfuck is an awesome language with a wide range of community-made tools.
 
 My work regarding Brainfuck:
  * [Izmit3](https://github.com/KrzysztofSzewczyk/Izmit3) ([v1 & v2](https://uw426.mikr.us)) - C to Brainfuck compiler made by me in Perl, maybe as a challenge, maybe for fun.
