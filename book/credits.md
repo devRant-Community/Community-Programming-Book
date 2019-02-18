@@ -48,7 +48,7 @@ We have to thank these great people on helping to write this book. Everyone here
   - [devRant](https://devrant.com/users/lucaspar)
   - [GitHub](https://github.com/lucaspar)
   
-  - Krzysztof Szewczyk
+- Krzysztof Szewczyk (Παλαιολόγος)
   
   - [devRant](https://devrant.com/users/KrzysztofSzewczyk)
   - [GitHub](https://github.com/KrzysztofSzewczyk)
