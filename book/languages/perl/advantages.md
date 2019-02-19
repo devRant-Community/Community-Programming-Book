@@ -1,14 +1,14 @@
 # Advantages
 
-Perl derives most of its syntax from well known languages and tools common in UNIX-like operating systems.
+Perl derives most of its syntax from well-known languages and tools common in UNIX-like operating systems.
 
-Becoming good programmer with Perl, with previous knowledge of C, Shell script, Sed, Awk and other UNIX tools
+Becoming a good programmer with Perl, with previous knowledge of C, Shell script, Sed, Awk and other UNIX tools
 is relatively easy. Perl is **really** easy to learn!
 
-Perl with CPAN, has a module to do pretty much anything you'd ever want to do and even more for things you
+Perl with CPAN has a module to do pretty much anything you'd ever want to do and even more for things you
 probably don't want to do.
 
-Perl is a very entraining language to work (like C or Assembly) because of freedom it provides.
+Perl is a very entraining language to work (like C or Assembly) because of the freedom it provides.
 
 Perl is stable and predictable - it just requires basic UNIX knowledge and decent Perl intuition.
 
