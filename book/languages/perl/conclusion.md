@@ -14,7 +14,7 @@ int main(void) {
 And here it is in Perl:
 
 ```pl
-print 'Hello World!'
+print 'Hello World!';
 ```
 
 Get in, get out, while getting the job done. Whenever you need help with Perl, you can always
