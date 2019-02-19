@@ -146,6 +146,18 @@
   * [Conclusion](languages/brainfuck/conclusion.md)
   
   * [Some interesting facts](languages/brainfuck/misc.md)
+  
+* [Malbolge](languages/malbolge/README.md)
+
+  * [Introduction](languages/malbolge/intro.md)
+
+  * [History](languages/malbolge/history.md)
+
+  * [Advantages](languages/malbolge/advantages.md)
+
+  * [Disadvantages](languages/malbolge/disadvantages.md)
+
+  * [Conclusion](languages/malbolge/conclusion.md)
 
 ## End
 
