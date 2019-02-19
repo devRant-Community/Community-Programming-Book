@@ -8,7 +8,7 @@ complete, rather than beautiful-tiny, elegant, and minimal. Perl was written by 
 Perl is bundled with various Linux distros and other UNIX-like systems. You can install it on Windows (R).
 
 Perl is interpreted. This can be either an advantage or disadvantage, depending on your needs. For example, Perl has a short
-development cycle compared to compiled languages, but it will never reach their efficency.
+development cycle compared to compiled languages, but it will never reach their efficiency.
 
 Perl is written to be practical. This means that it's complete, easy to use and relatively efficient.
 
