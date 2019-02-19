@@ -170,6 +170,19 @@
   * [Disadvantages](languages/perl/disadvantages.md)
 
   * [Conclusion](languages/perl/conclusion.md)
+  
+
+* [C](languages/c/README.md)
+
+  * [Introduction](languages/c/intro.md)
+
+  * [History](languages/c/history.md)
+
+  * [Advantages](languages/c/advantages.md)
+
+  * [Disadvantages](languages/c/disadvantages.md)
+
+  * [Conclusion](languages/c/conclusion.md)
 
 ## End
 
