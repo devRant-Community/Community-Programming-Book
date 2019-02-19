@@ -1,7 +1,7 @@
 {
   "default": true,
   "MD026": {
-    "punctuation": ".,;:!"
+    "punctuation": ",;:"
   },
   "MD013": {
     "line_length": 300
