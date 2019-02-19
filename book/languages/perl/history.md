@@ -8,6 +8,6 @@ configuration management and control system. Larry's manager asked him to produc
 produce the reports. Awk couldn't handle opening and closing multiple files based on information in the files. Larry didn't want to
 code a special purpose tool just for this job, so a new language was born. You'll find a reference to the former five-letter
 version in the entry for the acronym Practical Extraction and Report Language. The manual page was only 15 pages long. But Perl was
-faster than sed and awk and began to be used on other aspects of the project. Larry moved on to support research and development 
-and took Perl with him. Perl was becoming a good tool for system administration. Larry borrowed Henry Spencer's regular expression 
-package and modified it for Perl. Then Larry added most of the goodies he and other people wanted and released it on the Internet. 
+faster than sed and awk and began to be used on other aspects of the project. Larry moved on to support research and development
+and took Perl with him. Perl was becoming a good tool for system administration. Larry borrowed Henry Spencer's regular expression
+package and modified it for Perl. Then Larry added most of the goodies he and other people wanted and released it on the Internet.
