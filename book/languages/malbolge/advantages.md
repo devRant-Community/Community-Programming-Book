@@ -1,6 +1,6 @@
 # Advantages
 
-Generally speaking, currently, Brainfuck is a joke language. Therefore, it's not very efficient, nor easy to write.
+Generally speaking, currently, Malbolge is a joke language. Therefore, it's not very efficient, nor easy to write.
 
 First of all, like all esoteric languages, it's a really good exercise for your brain! If Malbolge was Go of programming, Brainfuck
 would be chess, and Assembly would be checkers.
