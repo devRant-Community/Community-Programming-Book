@@ -40,4 +40,4 @@ developers. Many implementations of new algorithms in books or on the internet a
 authors.** This gives the maximum possible portability for the implementation. I’ve seen programmers struggling on the internet
 to rewrite a C algorithm to other programming languages because he or she didn’t know very basic concepts of C.
 
-### The Illuminati doesn't run the world. C programmers do.
+## The Illuminati doesn't run the world. C programmers do
