@@ -170,7 +170,6 @@
   * [Disadvantages](languages/perl/disadvantages.md)
 
   * [Conclusion](languages/perl/conclusion.md)
-  
 
 * [C](languages/c/README.md)
 
