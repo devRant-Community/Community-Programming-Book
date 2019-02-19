@@ -8,4 +8,4 @@ inefficiently. Albeit low abstraction level, Brainfuck is memory and CPU time in
 so it's not very viable to write anything in bare Brainfuck and you'd be better off by using some kind of Brainfuck assembler,
 or HLL to brainfuck compiler, but none of the listed can beat pure C implementation instead of Brainfuck one.
 
-Finally, the language is a bit limited - I/O is limited to console input and output, greatly reducing use cases.
+Finally, the language is a bit constrained - I/O is limited to console input and output, greatly reducing use cases.
