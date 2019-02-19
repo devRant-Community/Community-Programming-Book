@@ -159,6 +159,18 @@
 
   * [Conclusion](languages/malbolge/conclusion.md)
 
+* [Perl](languages/perl/README.md)
+
+  * [Introduction](languages/perl/intro.md)
+
+  * [History](languages/perl/history.md)
+
+  * [Advantages](languages/perl/advantages.md)
+
+  * [Disadvantages](languages/perl/disadvantages.md)
+
+  * [Conclusion](languages/perl/conclusion.md)
+
 ## End
 
 * [Credits](credits.md)
