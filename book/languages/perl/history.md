@@ -2,7 +2,7 @@
 # History
 
 Larry Wall developed Perl in 1986. He was a systems programmer on a project that was developing multilevel, secure wide area
-networks. Larry was in charge of an installation. Larry's primary job was system support "guru". During this stint, he developed
+networks. Larry was in charge of installation. Larry's primary job was system support "guru". During this stint, he developed
 several useful UNIX tools such as rn, patch, and warp. Perl was developed in response to a management requirement for a
 configuration management and control system. Larry's manager asked him to produce reports. Larry's first thought was to use awk to
 produce the reports. Awk couldn't handle opening and closing multiple files based on information in the files. Larry didn't want to
