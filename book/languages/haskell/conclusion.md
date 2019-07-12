@@ -21,4 +21,4 @@ If you do love math, you're gonna love Haskell
 
 ## Regarding authors
 
-This chapter was made by [Konrad Nachtigall "Skayo"](https://github.com/Skayo).
+This chapter was made by [Skayo](https://github.com/Skayo).

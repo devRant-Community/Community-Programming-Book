@@ -15,4 +15,4 @@ It has amazing features and need more attention than it has now.
 
 ## Regarding authors
 
-This chapter was made by [Konrad Nachtigall "Skayo"](https://github.com/Skayo).
+This chapter was made by [Skayo](https://github.com/Skayo).

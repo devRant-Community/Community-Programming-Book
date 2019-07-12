@@ -17,4 +17,4 @@ But I'll say something more.
 
 ## Regarding authors
 
-This chapter was made by [Konrad Nachtigall "Skayo"](https://github.com/Skayo) with grammar corrections made by [Gadila Shashank Reddy](https://github.com/gadilashashank).
+This chapter was made by [Skayo](https://github.com/Skayo) with grammar corrections made by [Gadila Shashank Reddy](https://github.com/gadilashashank).
