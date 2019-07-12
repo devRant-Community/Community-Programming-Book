@@ -2,7 +2,9 @@
 
 Some of Lua's advantages are:
 
-* **Easy syntax**
+* **Linear Learning Curve**
+
+* **Metatables**
 
 * **Portable, can be built on any platform with ANSI C compiler**
 
