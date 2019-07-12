@@ -17,4 +17,4 @@ But I'll say something more.
 
 ## Regarding authors
 
-This chapter was made by [Konrad Nachtigall "Unrooted"](https://github.com/Unrooted) with grammar corrections made by [Gadila Shashank Reddy](https://github.com/gadilashashank).
+This chapter was made by [Konrad "Unrooted" Klawikowski](https://github.com/Unrooted) with grammar corrections made by [Gadila Shashank Reddy](https://github.com/gadilashashank).

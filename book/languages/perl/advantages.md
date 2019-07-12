@@ -1,6 +1,6 @@
 # Advantages
 
-Perl derives most of its syntax from well-known languages and tools common in UNIX-like operating systems.
+**Perl** derives most of its syntax from well-known languages and tools common in UNIX-like operating systems.
 
 Becoming a good programmer with Perl, with previous knowledge of C, Shell script, Sed, Awk and other UNIX tools
 is relatively easy. Perl is **really** easy to learn!
