@@ -2,7 +2,7 @@
 
 * WhatsApp messaging system is build on Erlang, it supports over 800 million users and 30 billion messages per day
 
-* bet365 uses Erlangin their Online Gambling & Betting industry.
+* bet365 uses Erlang in their Online Gambling & Betting industry.
 
 * Erlang transports 40% of all telecom data
 
@@ -31,7 +31,7 @@ Don't forget the full-stop ("period" in American English) at the end of each com
         c(hello).
         {ok,hello}
 
-(on unix systems you start the erlang shell by typing "erl" at the command line.
+(on Unix systems you start the erlang shell by typing "erl" at the command line.
 On Windows, open a command prompt window and type "werl", or find the Erlang icon in the programs menu).
 To run the program from the Erlang shell:
 
