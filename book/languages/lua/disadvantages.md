@@ -2,7 +2,7 @@
 
 Some bad stuff about Lua...
 
-* **No Unicode support*
+* **No Unicode support**
 
 * **It's not super popular language...**
 
