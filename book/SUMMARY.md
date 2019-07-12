@@ -132,6 +132,56 @@
   * [Some interesting facts](languages/haskell/misc.md)
 
   * [Conclusion](languages/haskell/conclusion.md)
+  
+* [Brainfuck](languages/brainfuck/README.md)
+
+  * [Introduction](languages/brainfuck/intro.md)
+
+  * [History](languages/brainfuck/history.md)
+
+  * [Advantages](languages/brainfuck/advantages.md)
+
+  * [Disadvantages](languages/brainfuck/disadvantages.md)
+
+  * [Conclusion](languages/brainfuck/conclusion.md)
+  
+  * [Some interesting facts](languages/brainfuck/misc.md)
+  
+* [Malbolge](languages/malbolge/README.md)
+
+  * [Introduction](languages/malbolge/intro.md)
+
+  * [History](languages/malbolge/history.md)
+
+  * [Advantages](languages/malbolge/advantages.md)
+
+  * [Disadvantages](languages/malbolge/disadvantages.md)
+
+  * [Conclusion](languages/malbolge/conclusion.md)
+
+* [Perl](languages/perl/README.md)
+
+  * [Introduction](languages/perl/intro.md)
+
+  * [History](languages/perl/history.md)
+
+  * [Advantages](languages/perl/advantages.md)
+
+  * [Disadvantages](languages/perl/disadvantages.md)
+
+  * [Conclusion](languages/perl/conclusion.md)
+
+* [C](languages/c/README.md)
+
+  * [Introduction](languages/c/intro.md)
+
+  * [History](languages/c/history.md)
+
+  * [Advantages](languages/c/advantages.md)
+
+  * [Disadvantages](languages/c/disadvantages.md)
+
+  * [Conclusion](languages/c/conclusion.md)
 
 ## End
 
