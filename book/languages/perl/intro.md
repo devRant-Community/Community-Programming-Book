@@ -1,7 +1,7 @@
 
 # Introduction
 
-**Perl** is an *interpreted language* optimized for processing arbitrary text files, extracting information, and printing reports.
+**Perl** is an interpreted language optimized for processing arbitrary text files, extracting information, and printing reports.
 It is also a good language for *system management tasks.* The language is intended to be practical, easy to use, efficient, and
 complete, rather than beautiful-tiny, elegant, and minimal. Perl was written by Larry Wall, with help of other contributors.
 
