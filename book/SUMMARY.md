@@ -192,6 +192,8 @@
   * [Advantages](languages/lua/advantages.md)
 
   * [Disadvantages](languages/lua/disadvantages.md)
+  
+  * [Some interesting facts](languages/lua/misc.md)
 
   * [Conclusion](languages/lua/conclusion.md)
 
