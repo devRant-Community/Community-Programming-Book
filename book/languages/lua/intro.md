@@ -9,15 +9,9 @@ It supports procedural programming, oop and functional programming, as well as d
 
 # Features
 
-* **Simple**
-  
-* **Cross-Platform**
+* **Portable which means it's super lightweight**
 
-    You can run Lua code on every platform, Windows, macOS, and Linux.
-  
-* **Portable (also lightweight)**
-
-    Lua package is really small.
+    Lua package is really small. You can run Lua code on every platform, Windows, macOS, and Linux.
 
 * **Dynamic datatypes**
 
