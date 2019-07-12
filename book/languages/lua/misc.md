@@ -34,10 +34,10 @@ main :: IO ()
 main = putStrLn "Hello, World!"
 ```
 
-### **Python**
+### **Python 3**
 
 ```Python
-print "Hello world!"
+print("Hello, world!")
 ```
 
 ### **Ruby**
