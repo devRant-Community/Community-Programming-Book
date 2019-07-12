@@ -9,7 +9,7 @@ It supports procedural programming, oop and functional programming, as well as d
 
 # Features
 
-* **Portable which means it's super lightweight**
+* **Portable and super lightweight**
 
     Lua package is really small. You can run Lua code on every platform, Windows, macOS, and Linux.
 
