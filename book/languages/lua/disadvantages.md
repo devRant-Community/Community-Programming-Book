@@ -2,10 +2,10 @@
 
 Some bad stuff about Lua...
 
-* **No Unicode support**
+* **No Unicode support*
 
-* **Limited support for pattern matching**
+* **It's not super popular language...**
 
-* **No POSIX functions built-in**
+* **With the Portability comes price of out of the box features**
 
-* **Limited error handling support**
+* **No bitops in the older versions**
