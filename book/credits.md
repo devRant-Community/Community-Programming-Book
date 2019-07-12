@@ -37,13 +37,20 @@ We have to thank these great people on helping to write this book. Everyone here
   - [devRant](https://devrant.com/users/silverstar)
   - [GitHub](https://github.com/gadilashashank)
 
-- Konrad Nachtigall "Unrooted"
+- Konrad "Unrooted" Klawikowski
 
   - [devRant](https://devrant.com/users/RootPixl)
 
   - [GitHub](https://github.com/Unrooted)
+
+  - [Twitter](https://twitter.com/KUnrooted)
   
 - Lucas Parzianello
 
   - [devRant](https://devrant.com/users/lucaspar)
   - [GitHub](https://github.com/lucaspar)
+  
+- Krzysztof Szewczyk (Παλαιολόγος)
+  
+  - [devRant](https://devrant.com/users/KrzysztofSzewczyk)
+  - [GitHub](https://github.com/KrzysztofSzewczyk)

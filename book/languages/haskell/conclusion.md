@@ -21,4 +21,4 @@ If you do love math, you're gonna love Haskell
 
 ## Regarding authors
 
-This chapter was made by [Konrad Nachtigall "Unrooted"](https://github.com/Unrooted).
+This chapter was made by [Konrad "Unrooted" Klawikowski](https://github.com/Unrooted).

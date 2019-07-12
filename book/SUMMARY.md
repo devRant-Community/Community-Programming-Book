@@ -183,6 +183,18 @@
 
   * [Conclusion](languages/c/conclusion.md)
 
+* [Lua](languages/lua/README.md)
+
+  * [Introduction](languages/lua/intro.md)
+
+  * [History](languages/lua/history.md)
+
+  * [Advantages](languages/lua/advantages.md)
+
+  * [Disadvantages](languages/lua/disadvantages.md)
+
+  * [Conclusion](languages/lua/conclusion.md)
+
 ## End
 
 * [Credits](credits.md)

@@ -15,4 +15,4 @@ It has amazing features and need more attention than it has now.
 
 ## Regarding authors
 
-This chapter was made by [Konrad Nachtigall "Unrooted"](https://github.com/Unrooted).
+This chapter was made by [Konrad "Unrooted" Klawikowski](https://github.com/Unrooted).
