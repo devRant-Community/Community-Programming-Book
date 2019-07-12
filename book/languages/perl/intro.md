@@ -10,6 +10,6 @@ complete, rather than beautiful-tiny, elegant, and minimal. Perl was written by 
 Perl is interpreted. This can be either an advantage or disadvantage, depending on your needs. For example, Perl has a short
 development cycle compared to compiled languages, but it will never reach their efficiency.
 
->Perl is written to be practical. This means that it's complete, easy to use and relatively efficient.
+Perl is written to be practical. This means that it's complete, easy to use and relatively efficient.
 
 Let's dive into Perl' history!
