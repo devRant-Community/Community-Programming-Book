@@ -7,7 +7,7 @@ Domain-specific and more complicated features **weren't** included, but it provi
 
 It supports procedural programming, oop and functional programming, as well as data-driven programming and data description.
 
-# Features
+## Features
 
 * **Portable and super lightweight**
 
