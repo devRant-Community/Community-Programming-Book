@@ -13,6 +13,8 @@ First public implementation was released by Sun Microsystems in 1996 as Java 1.0
 It promised *Write Once, Run Anywhere*.
 Soon, major web browserws implemented the ability of running Java applets with the web pages and that's how Java became popular so fast.
 
+Back in the day, Java applets were a huge deal. They were small applications that compiled to Java bytecode. It was launched from a webpage and then it was executed with JVM in a process separated from the browser.
+
 Java 2, released initially as J2SE 1.2 in Deecember 1998-1999, Java language had multiple configurations built for different types of enviroments.
 It included APIs and technologies for enterprise apps typically run in server enviroments, while it featured APIs optimized for mobile apps.
 In 2006, because of marketing purposes, Sun Microsystems renamed new J2 versions as Java EE (Enterprise Edition), Java ME (Micro Edition) and Java SE (Standard Edition).

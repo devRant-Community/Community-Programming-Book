@@ -4,8 +4,6 @@
 
 * It's platform independent
 
-* Security, bytecode is understandable only by JVM and Java doesn't support pointers
+* Lack of features gives more security
 
 * Many nice-to-have features, for example automatic garbage collection, exception handling and type checking
-
-* You can execute tasks using threads because of multithreading
