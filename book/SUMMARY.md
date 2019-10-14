@@ -197,6 +197,24 @@
 
   * [Conclusion](languages/lua/conclusion.md)
 
+* [JVM](languages/JVM/README.md)
+
+  * [Introduction](languages/jvm/intro.md)
+
+  * [Java](languages/jvm/java/README.md)
+
+    * [Introduction](languages/jvm/java/intro.md)
+
+    * [History](languages/jvm/java/history.md)
+
+    * [Advantages](languages/jvm/java/advantages.md)
+
+    * [Disadvantages](languages/jvm/java/disadvantages.md)
+
+    * [Some interesting facts](languages/jvm/java/misc.md)
+
+    * [Conclusion](languages/jvm/java/conclusion.md)
+
 ## End
 
 * [Credits](credits.md)
