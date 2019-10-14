@@ -215,6 +215,20 @@
 
     * [Conclusion](languages/jvm/java/conclusion.md)
 
+  * [Clojure](languages/jvm/clojure/README.md)
+
+    * [Introduction](languages/jvm/clojure/intro.md)
+
+    * [History](languages/jvm/clojure/history.md)
+
+    * [Advantages](languages/jvm/clojure/advantages.md)
+
+    * [Disadvantages](languages/jvm/clojure/disadvantages.md)
+
+    * [Some interesting facts](languages/jvm/clojure/misc.md)
+
+    * [Conclusion](languages/jvm/clojure/conclusion.md)
+
 ## End
 
 * [Credits](credits.md)
