@@ -19,7 +19,8 @@ In 2006, because of marketing purposes, Sun Microsystems renamed new J2 versions
 
 ## Making Java open-source
 
-Process started in the fall of 2006. Most of the JVM was released as free and open-source under the GNU General Public License. On May 8, 2007, process was finished, Sun made all of its JVM core code under free software and open-source software distribution terms, except for small pieces of code to which Sun didn't hold the copyright.
+Process started in the fall of 2006. Most of the JVM was released as free and open-source under the GNU General Public License. On May 8, 2007, process was finished,
+Sun made all of its JVM core code under free software and open-source software distribution terms, except for small pieces of code to which Sun didn't hold the copyright.
 
 ## After acquisition
 

@@ -19,7 +19,7 @@
 ```java
 class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
+        System.out.println("Hello, World!");
     }
 }
 ```
@@ -28,7 +28,7 @@ class HelloWorld {
 
 ```cpp
 #include <iostream>
-int main() 
+int main()
 {
     std::cout << "Hello, World!";
     return 0;
