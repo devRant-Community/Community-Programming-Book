@@ -9,4 +9,4 @@ script:
 - npm run lint
 
 notifications:
-  webhooks: https://skayo.tk/cpb/reportChecksFailure.php
+  webhooks: https://skayo.dev/cpb/reportChecksFailure.php
