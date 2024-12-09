@@ -36,14 +36,6 @@ We have to thank these great people on helping to write this book. Everyone here
 
   - [devRant](https://devrant.com/users/silverstar)
   - [GitHub](https://github.com/gadilashashank)
-
-- Skayo
-
-  - [devRant](https://devrant.com/users/Skayo)
-
-  - [GitHub](https://github.com/Skayo)
-
-  - [Twitter](https://twitter.com/Skayo_)
   
 - Lucas Parzianello
 
